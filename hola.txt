@@ -1,2 +1,7 @@
 qwertyuiop
 El cambio ya se cambio
+<<<<<<< HEAD
+asdfghjkl
+=======
+fv;dakjbveq
+>>>>>>> 7bcaeb51657a511c2a988fbf5cbeacc3f05a380f
