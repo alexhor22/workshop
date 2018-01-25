@@ -8,10 +8,9 @@ Pistian for the win
 >>>>>>> 21488774d029b7a3bd7af3aa9609bd5007a6e098
 <<<<<<< HEAD
 hola
-=======
 Este es el mejor branch
 Tenemos los mejores txtos
 LOS MEJOREs
 SE LOS PUEDO ASEGURAR
 ME GUSTAN LAS ROSQUILLAS
->>>>>>> Christian
+
